@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1> About me .... </h1>
 
 <p> Hi folks, meu nome é eder, estou estudando programação de forma independente e esse perfil tem como objetivo compartilhar experiências com algumas tecnologias que estou interessado, embora o foco seja em JAVA.</p>
@@ -10,13 +8,14 @@
 
 <h2>:point_right: Interesses: </h2> 
   
-<p> Campo de interesse é programação backend, mais especificamete em JAVA mas também tenho interesse em linguagens como C++, Rust e Kotlin </p>
+<p> Programação backend, especificamete em JAVA mas também em linguagens como C++, Rust e Kotlin </p>
  
 <h2> Statistics: </h2> 
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederffp&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederffp&layout=compact&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederffp&show_icons=true&theme=dark"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederffp&layout=compact&theme=dark"/>
 </div>
 
+
+<h2> contatos: </h2>
 :email: Como encontrar-me: [ederffp@gmail.com](mailto:ederffp@gmail.com)
