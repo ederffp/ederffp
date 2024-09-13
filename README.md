@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**ederffp/ederffp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> About me .... </h1>
 
-Here are some ideas to get you started:
+<p> Hi folks, meu nome é eder, estou estudando programação de forma independente e esse perfil tem como objetivo compartilhar experiências com algumas tecnologias que estou interessado, embora o foco seja em JAVA.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>:technologist: Tecnologias: </h2>
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40"/>
+
+<h2>:point_right: Interesses: </h2> 
+  
+<p> Campo de interesse é programação backend, mais especificamete em JAVA mas também tenho interesse em linguagens como C++, Rust e Kotlin </p>
+ 
+<h2> Statistics: </h2> 
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederffp&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederffp&layout=compact&theme=dark"/>
+</div>
+
+:email: Como encontrar-me: [ederffp@gmail.com](mailto:ederffp@gmail.com)
