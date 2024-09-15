@@ -1,5 +1,5 @@
 # Eder
-Estudante Desenvolvedor Full Stack | Entusiasta de Código Aberto
+Estudante Desenvolvedor Backend| Entusiasta de Código Aberto
 
 👋 Oi, eu sou o Eder! Sou apaixonado por tecnologia e código aberto, sempre buscando aprender novas linguagens e melhorar minhas habilidades.
 
@@ -11,7 +11,7 @@ Estudante Desenvolvedor Full Stack | Entusiasta de Código Aberto
 
 <h3>:point_right: Interesses: </h3> 
   
-<p> Programação backend, especificamete em C# mas também em linguagens como C++, Rust e Kotlin </p>
+<p> Especificamete em C# mas também em outras linguagens como C++, Rust e Kotlin </p>
 
 ### Estatísticas do GitHub
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederffp&show_icons=true&theme=dark"/>
