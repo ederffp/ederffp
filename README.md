@@ -1,5 +1,5 @@
 # Eder
-Estudante Desenvolvedor Backend| Entusiasta de Código Aberto
+Estudante Desenvolvedor Backend | Entusiasta de Código Aberto
 
 👋 Oi, eu sou o Eder! Sou apaixonado por tecnologia e código aberto, sempre buscando aprender novas linguagens e melhorar minhas habilidades.
 
