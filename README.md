@@ -20,10 +20,6 @@ Desenvolvedor Backend (estudante) | Entusiasta de Código Aberto
 ### Linguagens Mais Usadas
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederffp&layout=compact&theme=dark"/>
 
-## GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ederffp&theme=dark&hide_border=true)](https://github.com/ederffp)
-
-
 <h3> contatos: </h3>
 
 :email: Como encontrar-me: [ederffp@gmail.com](mailto:ederffp@gmail.com)
