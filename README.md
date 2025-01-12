@@ -21,7 +21,7 @@ Desenvolvedor Backend (estudante) | Entusiasta de Código Aberto
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederffp&layout=compact&theme=dark"/>
 
 ## GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ederffp&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ederffp&theme=dark-smoky&hide_border=true)](https://github.com/ederffp)
 
 
 <h3> contatos: </h3>
