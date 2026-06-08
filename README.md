@@ -1,72 +1,29 @@
-# Bem vindo ...
-```cpp
-#include <iostream>
-#include <string>
-#include <vector>
+# Eder Franco Pereira
 
-class Desenvolvedor {
-private:
-    std::string nome;
-    std::string cargo;
-    std::string pais;
-    std::vector<std::string> paixoes;
+Desenvolvedor Backend em formação, baseado no Brasil 🇧🇷  
+Apaixonado por código aberto, cultura hacker e aprendizado contínuo.
 
-public:
-    Desenvolvedor() {
-        nome = "Eder Franco Pereira";
-        cargo = "Desenvolvedor Backend (Estudante)";
-        pais = "Brasil 🇧🇷";
-        paixoes = {
-            "Código Aberto (FOSS)",
-            "Tecnologia",
-            "Aprendizado Contínuo",
-            "Cultura Hacker | Geek"
-        };
-    }
+## Stack atual
+- PHP / Laravel
+- JavaScript · HTML · CSS
+- Linux (Arch) · Git · Docker
 
-    void apresentar() {
-        std::cout << "Olá, mundo! Meu nome é " << nome << "." << std::endl;
-        std::cout << "Sou " << cargo << " e um grande entusiasta de código aberto." << std::endl;
-        std::cout << "Vivo no " << pais << "." << std::endl;
-        std::cout << "Sou apaixonado por:" << std::endl;
-        for (const auto& item : paixoes) {
-            std::cout << " - " << item << std::endl;
-        }
-        std::cout << "Como alguém bastante curioso, estou sempre aprendendo algo novo!" << std::endl;
-    }
-};
-
-int main() {
-    Desenvolvedor eder;
-    eder.apresentar();
-    return 0;
-}
-```
-### Linguagens & Ferramentas
-
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+## Linguagens & Ferramentas
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![JAVA]( https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-[![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
+## Interesses
+- Contribuições open source
+- Sistemas de baixo nível (C++, Rust no horizonte)
+- Web development
 
-<section class="Educação">
-  <h2>Formação:</h2>
-  <p><strong>💻 Tecnico em Informática:</strong> - [Escola São Pedro - ULBRA - RS] - 2002 </p>
-</section>  
-
-<h3>:point_right: Interesses: </h3> 
-  
-<p>Possuo uma serie de interesses mas, atualmente, o foco maior esta em tecnologias como C++ e Java </p>
-
-### Estatísticas do GitHub
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederffp&show_icons=true&theme=dark"/>
-
-### Linguagens Mais Usadas
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederffp&layout=compact&theme=dark"/>
-
-<h3> contatos: </h3>
-
-:email: Como encontrar-me: [ederffp@gmail.com](mailto:ederffp@gmail.com)
+## Contato
+ederffp@gmail.com
